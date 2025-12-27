@@ -1,0 +1,197 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Trading World | Forex & Crypto Signals</title>
+  <meta name="description" content="Trading World provides professional XAUUSD & BTCUSD signals with expert market analysis and risk management." />
+  <style>
+    body {
+      margin: 0;
+      font-family: Arial, Helvetica, sans-serif;
+      background: #0b0f1a;
+      color: #ffffff;
+    }
+    header {
+      background: linear-gradient(135deg, #0f2027, #203a43, #2c5364);
+      padding: 20px 60px;
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+    }
+    header h1 {
+      margin: 0;
+      color: #f4c430;
+      letter-spacing: 1px;
+    }
+    nav a {
+      color: #ffffff;
+      margin-left: 25px;
+      text-decoration: none;
+      font-size: 15px;
+    }
+    nav a:hover {
+      color: #f4c430;
+    }
+    .hero {
+      padding: 80px 60px;
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+      gap: 40px;
+      align-items: center;
+    }
+    .hero h2 {
+      font-size: 42px;
+      color: #f4c430;
+    }
+    .hero p {
+      font-size: 18px;
+      line-height: 1.6;
+      color: #dcdcdc;
+    }
+    .cta {
+      margin-top: 30px;
+    }
+    .cta a {
+      background: #f4c430;
+      color: #000;
+      padding: 14px 28px;
+      text-decoration: none;
+      font-weight: bold;
+      border-radius: 6px;
+    }
+    .cta a:hover {
+      background: #ffd966;
+    }
+    .hero-box {
+      background: #11172a;
+      padding: 30px;
+      border-radius: 12px;
+      box-shadow: 0 0 20px rgba(0,0,0,0.6);
+    }
+    .section {
+      padding: 70px 60px;
+      background: #0e1424;
+    }
+    .section h3 {
+      text-align: center;
+      font-size: 32px;
+      color: #f4c430;
+      margin-bottom: 50px;
+    }
+    .features {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+      gap: 30px;
+    }
+    .feature {
+      background: #151b33;
+      padding: 25px;
+      border-radius: 10px;
+      text-align: center;
+    }
+    .feature h4 {
+      color: #f4c430;
+      margin-bottom: 10px;
+    }
+    footer {
+      background: #080b14;
+      padding: 40px 60px;
+      text-align: center;
+      font-size: 14px;
+      color: #bdbdbd;
+    }
+    footer strong {
+      color: #f4c430;
+    }
+    @media (max-width: 900px) {
+      .hero {
+        grid-template-columns: 1fr;
+      }
+      header {
+        flex-direction: column;
+        gap: 15px;
+      }
+    }
+  </style>
+</head>
+<body>
+
+<header>
+  <h1>Trading World</h1>
+  <nav>
+    <a href="#home">Home</a>
+    <a href="#services">Services</a>
+    <a href="#benefits">Benefits</a>
+    <a href="#contact">Contact</a>
+  </nav>
+</header>
+
+<section class="hero" id="home">
+  <div>
+    <h2>Trade Smarter with Expert Signals</h2>
+    <p>
+      Trading World offers professional <strong>XAUUSD & BTCUSD signals</strong>
+      backed by technical analysis, risk management, and real market experience.
+      Join traders who focus on consistency, not gambling.
+    </p>
+    <div class="cta">
+      <a href="#contact">Start Trading With Us</a>
+    </div>
+  </div>
+  <div class="hero-box">
+    <h3>Our Focus Markets</h3>
+    <ul>
+      <li>✔ Gold (XAUUSD) Signals</li>
+      <li>✔ Bitcoin (BTCUSD) Signals</li>
+      <li>✔ Intraday & Swing Setups</li>
+      <li>✔ Proper Entry, SL & Targets</li>
+    </ul>
+  </div>
+</section>
+
+<section class="section" id="services">
+  <h3>Our Services</h3>
+  <div class="features">
+    <div class="feature">
+      <h4>Premium Signals</h4>
+      <p>High-probability trade setups with clear risk-reward structure.</p>
+    </div>
+    <div class="feature">
+      <h4>Market Analysis</h4>
+      <p>Daily technical & sentiment-based analysis for Gold and Bitcoin.</p>
+    </div>
+    <div class="feature">
+      <h4>Risk Management</h4>
+      <p>Capital protection-focused strategies suitable for all traders.</p>
+    </div>
+  </div>
+</section>
+
+<section class="section" id="benefits">
+  <h3>Why Choose Trading World</h3>
+  <div class="features">
+    <div class="feature">
+      <h4>Experienced Guidance</h4>
+      <p>Real market experience, not automated guessing.</p>
+    </div>
+    <div class="feature">
+      <h4>Transparent Trades</h4>
+      <p>Every trade shared with logic and levels.</p>
+    </div>
+    <div class="feature">
+      <h4>Trader Support</h4>
+      <p>Support and guidance throughout your trading journey.</p>
+    </div>
+  </div>
+</section>
+
+<footer id="contact">
+  <p><strong>Trading World</strong></p>
+  <p>📍 Mumbai, India</p>
+  <p>📞 Contact: 9031808291</p>
+  <p>© 2025 Trading World. All Rights Reserved.</p>
+</footer>
+
+</body>
+</html>
